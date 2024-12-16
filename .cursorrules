@@ -16,7 +16,7 @@
 
 ## Best Practices
 
-- Implement responsive designs using Tailwind CSS
+- Implement responsive designs
 - Prefer async/await over .then() for asynchronous operations
 
 <!-- ## Testing
